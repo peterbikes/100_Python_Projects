@@ -6,49 +6,65 @@
 def moving_shift(s, shift):
     coded = ''
     for letter in s:
+        flag = False;
+        control = shift;
         if letter.isalpha():
-            if(ord(letter) <= 90): #Capital letter
-                if(ord(letter) + shift > 90):
-                    coded += chr(ord(letter) + shift - 26)
-                else:        
-                    coded += chr(ord(letter) + shift)
+            if(ord(letter) <= 90):
+                while(flag == False):
+                    if(ord(letter) + control > 90):
+                        control -= 26     
+                    else:        
+                        coded += chr(ord(letter) + control)
+                        flag = True
             else:
-                if(ord(letter) + shift > 122):
-                    coded += chr(ord(letter) + shift - 26)
-                else:
-                    coded += chr(ord(letter) + shift)
+                while(flag == False):
+                    if(ord(letter) + control > 122):
+                            control -= 26     
+                    else:
+                        coded += chr(ord(letter) + control)
+                        flag = True
         else:
             coded += letter
+        shift += 1
     return coded;
 
 def demoving_shift(s, shift):
     coded = ''
     for letter in s:
+        flag = False;
+        control = shift;
         if letter.isalpha():
-            if(ord(letter) <= 90): #Capital letter
-                if(ord(letter) - shift < 65):
-                    coded += chr(ord(letter) - shift + 26)
-                else:        
-                    coded += chr(ord(letter) - shift)
+            if(ord(letter) <= 90):
+                while(flag == False):
+                    if(ord(letter) - control < 65):
+                        control -= 26    
+                    else:    
+                        coded += chr(ord(letter) - control)
+                        flag = True
             else:
-                if(ord(letter) - shift < 97):
-                    coded += chr(ord(letter) - shift + 26)
-                else:
-                    coded += chr(ord(letter) - shift)
+                while(flag == False):
+                    if(ord(letter) - control < 97):
+                            control -= 26    
+                    else:
+                        coded += chr(ord(letter) - control)
+                        flag = True
         else:
             coded += letter
+        shift += 1
     return coded;
 
 choice = input('(C)ode or (D)ecode? ')
 choice = choice.upper()
 if(choice != 'C' and choice != 'D'):
     print("Invalid choice, goodbye! ")
+    exit()
 
 str = input('Sentence? ')
 shift = input('Shifted how many times? (1 - 13): ')
 
-if(int(shift) < 1 or int(shift) > 13):
+if(shift.isdigit() == False or (int(shift) < 1 or int(shift) > 13)):
     print("Invalid choice, goodbye! ")
+    exit() 
 
 if (choice == 'C'):
     print(moving_shift(str, int(shift)))
