@@ -13,3 +13,5 @@
 🧻 [5 - Rock Paper Scissors](https://github.com/peterbikes/100_Python_Projects/tree/main/5%20-%20Rock%20Paper%20Scissors)
 
 🐷 [6 - Pig Latin Converter](https://github.com/peterbikes/100_Python_Projects/tree/main/6%20-%20Pig%20Latin%20Converter)
+
+🌿 [7 - Caesar's Cipher](https://github.com/peterbikes/100_Python_Projects/tree/main/7%20-%20Caesar%20Cipher)
