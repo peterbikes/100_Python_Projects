@@ -15,3 +15,5 @@
 🐷 [6 - Pig Latin Converter](https://github.com/peterbikes/100_Python_Projects/tree/main/6%20-%20Pig%20Latin%20Converter)
 
 🌿 [7 - Caesar's Cipher](https://github.com/peterbikes/100_Python_Projects/tree/main/7%20-%20Caesar%20Cipher)
+
+🐼 [8 - Pangram Detector](https://github.com/peterbikes/100_Python_Projects/tree/main/8%20-%20Pangram%20Detector)
