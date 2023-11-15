@@ -1,7 +1,15 @@
 #! /usr/bin/python
+# **************************************************************************** #
+#                                                                 __           #
+#    pig_latin_converter.py                                      / _)          #
+#                                                       _/\/\/\_/ /            #
+#          By: pedro_mota                             _|         /             #
+#      Github: github.com/peterbikes                _|  (  | (  |              #
+#    Linkedin: linkedin.com/in/pedrosmpm/         /__.-'|_|--|_|               #
+#                                                                              #
+# **************************************************************************** #
 
 # Exercise from codewars.com: Simple Pig Latin
-
 
 def pig_it(text):
     ay = 'ay'

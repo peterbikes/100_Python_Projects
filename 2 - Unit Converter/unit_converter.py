@@ -1,23 +1,32 @@
 #! /usr/bin/python
+# **************************************************************************** #
+#                                                                 __           #
+#    unit_converter.py                                           / _)          #
+#                                                       _/\/\/\_/ /            #
+#          By: pedro_mota                             _|         /             #
+#      Github: github.com/peterbikes                _|  (  | (  |              #
+#    Linkedin: linkedin.com/in/pedrosmpm/         /__.-'|_|--|_|               #
+#                                                                              #
+# **************************************************************************** #
 
 def mile_km(num):
     return(num*1.609344)
 
 def km_mile(num):
     return(num*0.6213712)
- 
+
 def foot_meter(num):
     return(num*0.3048)
- 
+
 def meter_foot(num):
     return(num*3.28084)
 
 def celsius_fahr(num):
     return((num*1.8)+32)
- 
+
 def fahr_celsius(num):
     return(round(((num - 32) *(5/9)), 2))
- 
+
 def kilo_pound(num):
     return(num * 2.2)
 

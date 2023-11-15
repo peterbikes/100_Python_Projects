@@ -1,7 +1,4 @@
 #! /usr/bin/python
-# idea taken from: codewars.com
-# view my profile and solutions at: https://www.codewars.com/users/peterbikes
-
 # **************************************************************************** #
 #                                                                 __           #
 #    top_words_in_text.py                                        / _)          #
@@ -11,6 +8,9 @@
 #    Linkedin: linkedin.com/in/pedrosmpm/         /__.-'|_|--|_|               #
 #                                                                              #
 # **************************************************************************** #
+
+# idea taken from: codewars.com
+# view my profile and solutions at: https://www.codewars.com/users/peterbikes
 
 def update_list(splitted, word):
     i = 0

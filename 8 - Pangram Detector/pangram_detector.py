@@ -1,4 +1,13 @@
 #! /usr/bin/python
+# **************************************************************************** #
+#                                                                 __           #
+#    pangram_detector.py                                         / _)          #
+#                                                       _/\/\/\_/ /            #
+#          By: pedro_mota                             _|         /             #
+#      Github: github.com/peterbikes                _|  (  | (  |              #
+#    Linkedin: linkedin.com/in/pedrosmpm/         /__.-'|_|--|_|               #
+#                                                                              #
+# **************************************************************************** #
 
 # idea taken from: codewars.com
 # view my profile and solutions at: https://www.codewars.com/users/peterbikes
