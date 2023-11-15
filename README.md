@@ -17,3 +17,5 @@
 🌿 [7 - Caesar's Cipher](https://github.com/peterbikes/100_Python_Projects/tree/main/7%20-%20Caesar%20Cipher)
 
 🐼 [8 - Pangram Detector](https://github.com/peterbikes/100_Python_Projects/tree/main/8%20-%20Pangram%20Detector)
+
+📜 [9 - Top 3 Words in Text](https://github.com/peterbikes/100_Python_Projects/tree/main/9%20-%20Top%203%20Words%20in%20Text)
