@@ -23,3 +23,5 @@
 💀 [10 - Hangman](https://github.com/peterbikes/100_Python_Projects/tree/main/Hangman)
 
 🖋️ [11 - Number to its Written Form](https://github.com/peterbikes/100_Python_Projects/tree/main/Number%20to%20its%20Written%20Form)
+
+🧞 [12 - Prime Numbers](https://github.com/peterbikes/100_Python_Projects/tree/main/Prime%20Numbers)
