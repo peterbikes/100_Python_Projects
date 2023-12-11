@@ -27,3 +27,5 @@
 🧞 [12 - Prime Numbers](https://github.com/peterbikes/100_Python_Projects/tree/main/Prime%20Numbers)
 
 🌓 [13 - 3 or 5](https://github.com/peterbikes/100_Python_Projects/tree/main/3%20or%205)
+
+🫚 [14 - Digital Root](https://github.com/peterbikes/100_Python_Projects/tree/main/Digital%20Root)
