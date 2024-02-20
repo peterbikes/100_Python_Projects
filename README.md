@@ -33,3 +33,5 @@
 🔂 [15 - Persistent Bugger](https://github.com/peterbikes/100_Python_Projects/tree/main/Persistent%20Bugger)
 
 🫧 [16 - Bubble Sort](https://github.com/peterbikes/100_Python_Projects/tree/main/Bubble%20Sort)
+
+⚖️ [17 - BMI Calculator](https://github.com/peterbikes/100_Python_Projects/tree/main/BMI%20Calculator)
