@@ -1,4 +1,14 @@
 #! /usr/bin/python
+# **************************************************************************** #
+#                                                                 __           #
+#    prime_numbers.py                                            / _)          #
+#                                                       _/\/\/\_/ /            #
+#          By: pedro_mota                             _|         /             #
+#      Github: github.com/peterbikes                _|  (  | (  |              #
+#    Linkedin: linkedin.com/in/pedrosmpm/         /__.-'|_|--|_|               #
+#                                                                              #
+# **************************************************************************** #
+
 
 def menu(choice, number):
     if(choice == '1'):
