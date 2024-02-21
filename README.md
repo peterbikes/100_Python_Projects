@@ -35,3 +35,5 @@
 🫧 [16 - Bubble Sort](https://github.com/peterbikes/100_Python_Projects/tree/main/Bubble%20Sort)
 
 ⚖️ [17 - BMI Calculator](https://github.com/peterbikes/100_Python_Projects/tree/main/BMI%20Calculator)
+
+🧔‍♂️ [18 - Jacobsthal Numbers](https://github.com/peterbikes/100_Python_Projects/tree/main/Jacobsthal%20Numbers)
