@@ -39,3 +39,5 @@
 🧔‍♂️ [18 - Jacobsthal Numbers](https://github.com/peterbikes/100_Python_Projects/tree/main/Jacobsthal%20Numbers)
 
 🚱 [19 - Password Generator](https://github.com/peterbikes/100_Python_Projects/tree/main/Password%20Generator)
+
+🇨🇶 [20 - (()) Encoder](https://github.com/peterbikes/100_Python_Projects/tree/main/(())%20Encoder)
