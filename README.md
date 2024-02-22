@@ -45,3 +45,5 @@
 👬 [21 - Remove Duplicates](https://github.com/peterbikes/100_Python_Projects/tree/main/100%20Python%20Projects/Remove%20Duplicates)
 
 👾 [22 - Bit Counting](https://github.com/peterbikes/100_Python_Projects/tree/main/100%20Python%20Projects/Bit%20Counting)
+
+🔤 [23 - Symmetry Symmetry](https://github.com/peterbikes/100_Python_Projects/tree/main/100%20Python%20Projects/Alphabet%20Symmetry)
