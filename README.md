@@ -41,3 +41,5 @@
 🚱 [19 - Password Generator](https://github.com/peterbikes/100_Python_Projects/tree/main/Password%20Generator)
 
 🇨🇶 [20 - (()) Encoder](https://github.com/peterbikes/100_Python_Projects/tree/main/(())%20Encoder)
+
+👬 [21 - Remove Duplicates](https://github.com/peterbikes/100_Python_Projects/tree/main/Remove%20Duplicates)
