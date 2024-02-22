@@ -43,3 +43,5 @@
 🇨🇶 [20 - (()) Encoder](https://github.com/peterbikes/100_Python_Projects/tree/main/(())%20Encoder)
 
 👬 [21 - Remove Duplicates](https://github.com/peterbikes/100_Python_Projects/tree/main/Remove%20Duplicates)
+
+👾 [22 - Bit Counting](https://github.com/peterbikes/100_Python_Projects/tree/main/Bit%20Counting)
