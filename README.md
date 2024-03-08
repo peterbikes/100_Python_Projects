@@ -51,3 +51,5 @@
 🍝 [24 - Scramblies](https://github.com/peterbikes/100_Python_Projects/tree/main/100%20Python%20Projects/Scramblies)
 
 🌈 [25 - RGB to HEX Converter](https://github.com/peterbikes/100_Python_Projects/tree/main/100%20Python%20Projects/RGB%20to%20HEX%20Converter)
+
+🪐 [26 - Interplanetary Weight](https://github.com/peterbikes/100_Python_Projects/tree/main/100%20Python%20Projects/Interplanetary%20Weight)
