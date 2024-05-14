@@ -53,3 +53,7 @@
 🌈 [25 - RGB to HEX Converter](https://github.com/peterbikes/100_Python_Projects/tree/main/100%20Python%20Projects/RGB%20to%20HEX%20Converter)
 
 🪐 [26 - Interplanetary Weight](https://github.com/peterbikes/100_Python_Projects/tree/main/100%20Python%20Projects/Interplanetary%20Weight)
+
+🥀 [27 - Number of Petals](https://github.com/peterbikes/100_Python_Projects/tree/main/100%20Python%20Projects/Number%20of%20Petals)
+
+🚌 [28 - People in the Bus](https://github.com/peterbikes/100_Python_Projects/tree/main/100%20Python%20Projects/Number%20of%20People%20in%20the%20Bus)
