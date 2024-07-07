@@ -57,3 +57,5 @@
 🥀 [27 - Number of Petals](https://github.com/peterbikes/100_Python_Projects/tree/main/100%20Python%20Projects/Number%20of%20Petals)
 
 🚌 [28 - People in the Bus](https://github.com/peterbikes/100_Python_Projects/tree/main/100%20Python%20Projects/Number%20of%20People%20in%20the%20Bus)
+
+🐾 [29 - Dating with Hypergamy](https://github.com/peterbikes/100_Python_Projects/tree/main/100%20Python%20Projects/Dating%20with%20Hypergamy)
