@@ -1,3 +1,13 @@
+# **************************************************************************** #
+#                                                                 __           #
+#    dating_with_hypergamy.py                                    / _)          #
+#                                                       _/\/\/\_/ /            #
+#          By: pedro_mota                             _|         /             #
+#      Github: github.com/peterbikes                _|  (  | (  |              #
+#    Linkedin: linkedin.com/in/pedrosmpm/         /__.-'|_|--|_|               #
+#                                                                              #
+# **************************************************************************** #
+
 #! /usr/bin/python3
 
 import extra
