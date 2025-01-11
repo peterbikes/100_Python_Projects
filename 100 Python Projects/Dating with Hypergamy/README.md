@@ -1,6 +1,5 @@
 This exercise is based on this kata from codewars: https://www.codewars.com/kata/5f304fb8785c540016b9a97b/python 
 
-<img src="./hyper.png"/>
 
 ## Codewars Kata: Dating with Hypergamy
 
@@ -18,6 +17,8 @@ A number of single men and women are locked together for a longer while in a vil
 - Both women and men try to get the best looking date(s) they can get.
 
 These rules have nothing to do with reality, of course.
+
+<img src="./hyper.png"/>
 
 --------
 LinkedIn: https://www.linkedin.com/in/pedrosmpm
