@@ -61,3 +61,5 @@
 🐾 [29 - Dating with Hypergamy](https://github.com/peterbikes/100_Python_Projects/tree/main/100%20Python%20Projects/Dating%20with%20Hypergamy)
 
 👨‍👩‍👧 [30 - Prime odd digits primes](https://github.com/peterbikes/100_Python_Projects/tree/main/100%20Python%20Projects/PODP)
+
+𝕏 [31 - Value of X](https://github.com/peterbikes/100_Python_Projects/tree/main/100%20Python%20Projects/Value%20of%20X)
